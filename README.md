@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maninderSingh5
+- 👋 Hi, I’m Maninder Singh
 
 <!---
 maninderSingh5/maninderSingh5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
